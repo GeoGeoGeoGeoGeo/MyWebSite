@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Geo_MyWebSite</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="CSS/Geo.css">
+    
+    </head>
+    <body>
+        <h1>Geo_MyWebSite</h1>
+        <h2>In progress...</h2>
+    
+    
+    
+    </body>
+<html>
